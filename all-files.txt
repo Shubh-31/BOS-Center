@@ -1,0 +1,604 @@
+00d8f196237baea0e84de7811081e9962a91fd6e
+3d61d7a586a72a76809be36651bb5367b726fd9a 
+bffb357a7122523ec94045523758c4b825b448ef .eslintrc.json
+7c6929bcf2a70efe97c98fa36d104753042e9a1f .gitignore
+7777f53ab0a5de92a6058c55e3ff54d56206ba55 bash.exe.stackdump
+5137006dbe37ffa9610863a122399cc6a86c8c2b next.config.mjs
+c8306d780c1d58773a2c5ddd42dc2e0c74889917 next-sitemap.config.js
+22b4fd316f19c466c708bfc5a31f5860627f35d5 out05062025.rar
+d1696a056d7c98369769575cbbafd285aba812c9 package.json
+b0bfffc3c01e284614beaaf34d1bc9436ea8bc4b package-lock.json
+1a69fd2a450afc3bf47e08b22c149190df0ffdb4 postcss.config.mjs
+8ed8ded940146d75f03cbee3884f84f836598d66 public
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 public/.gitkeep
+73403e9a2e2b0f729a1ec6a495ef3af0ec81af05 public/2.png
+95d0bdfd31e3282057e42142862e4d84f8a7b1d5 public/assets
+cfbcf62e0ec070ad49e433c495fdd5516cc7ce5b public/assets/2.png
+def036c382ddd1aa2e08556e02d7d08f041f8452 public/assets/Aadhaar Verification 1.png
+8066154c7d5c5ab91db2f9c858e4b59135b7f64a public/assets/Aadhaar Verification 2.png
+ad42793ca6082d373d4869ad79986966c9f056c4 public/assets/Aadhaar Verification 3.png
+54e6ec414c530d57669163eada724f3782f907dd public/assets/Aadhaar Verification 4.png
+a084b6fdaf4089ce2c2d7f8904f685092ad78c6d public/assets/Aadhaar Verification 5.png
+07645c7883ea555bcd76826a230366e8f032ab16 public/assets/Accessible on Any Device (2).png
+326a92daa08261aa887b3298c6174d7373b90385 public/assets/Account Holder Name Matching (1).png
+c7e21f6286a2474d85cfe9bcb7e55f73e4edefb5 public/assets/Accurate Data Validation (3).png
+0c10ed3629d58da71566ea92c7ab02c97de8d537 public/assets/Address (1).png
+3851eb1a6aa7e5db193a1b5db5d76cc488ed19ca public/assets/Advance Marketing Solutions.png
+ee2391d86fa7482efe72d791648aec735f6eb146 public/assets/AdvantageHeader.png
+1e3b850cf95bf635e22af6e3aadd90d5d2ab6a76 public/assets/AEPS 1 (2).png
+c673a881048fc8f8481825a058d613ef388901ee public/assets/AEPS 1.png
+4853a71ca74f26ce424a097fc49ad296f48126f5 public/assets/AEPS 2.png
+f71033a1c1eed661dda8bbb0922cf4db544f9cb0 public/assets/AEPS 3.png
+5d36efa5218c31c2096132ad11da475525885a75 public/assets/AEPS 4.png
+55287047ca94371bceff413c434b5859738e07cf public/assets/AEPS Step 1 (1).png
+6d84d01d6262f31e015b24c12e23369eb6f2118d public/assets/AEPS Step 2 (2).png
+284a89bbc965a916a67f76959b572f9a00b5975c public/assets/AEPS Step 3 (2).png
+af27992aa6ddf24c9fa7b9f6f5051e6ea25c713b public/assets/API Documentation, API Reference (1).png
+854e18769ea3eba3602e15543acca16dc2998bd2 public/assets/API Endpoints (1).png
+11a37b49cd724c88ca16d90f9c6bd034ef7eeac2 public/assets/APIManagement1.png
+7b97024c9b6b907cf0847a26ea1d0e45d9542a65 public/assets/APIManagement2.png
+551bbcf4f0fc12ea5d99bc0788e4f56577eadf16 public/assets/APIManagement3.png
+ceedce634d52872efbbcaaa7d2abd419773d4e74 public/assets/APIManagement4.png
+b4b14c31b99e806c3e4b62f1b84c8921c2ace57f public/assets/APIManagement5.png
+8df422e1665ddbafee043f07323c19637bda7ba1 public/assets/APIManagement6.png
+3539871070e51cf7020b38db4505b163bd20c564 public/assets/APIManagement7.png
+92bab187b09d0e08831124d8365a03afaacc5efb public/assets/APIManagement8.png
+f79cabbbea40bac30bcede5ca0371665e1f489a9 public/assets/APIManagement9.png
+6c97ca8e927d68bdd4a5e78b936007b3574e7fa2 public/assets/App & Software Solutions (1).png
+08b8ea3875b7649388f304301db5395bd7549be1 public/assets/Application Development 1.png
+afa5188e09d6722c4e6028287569bbc860115139 public/assets/Application Development 2.png
+77c38232eb3936eeb800d43b874e71e82375f7c9 public/assets/Application Development 3.png
+e9ecce8db55fcbe10f98c3b5c129d46f6680a91a public/assets/Application Development 4.png
+4032479076b0b09a8f7b6c5aacdd7c669f51816c public/assets/Audit Trial (1).png
+76b4e0921a835caf5a7d89d429a04c9832060977 public/assets/Automate Communication (1).png
+4969af827a916d1681faf9050fd6d89ba201c31e public/assets/Automate Manual Tasks (3).png
+fa3a5528c14082ebbfce4610e9b158c3442a9804 public/assets/Automate Workflows & Sales, Streamline Reseller Management (1).png
+a4195c803bfc1d7eb0b730bcc8de165e2ec178d0 public/assets/Automated Banking Operations.png
+7d5ad2db568eb0899037552b702d7fc735cb9405 public/assets/Automated Credit Checks.png
+98bf5420b388514779021d690dcee748fc08f4cd public/assets/Automated Interest Calculations.png
+30417bfd179f609b0f9c817c17b93c5330d8cde9 public/assets/Automated Loan Processing.png
+abb39ca4bdbc0ab6ed26935e199b2aef5849e1fa public/assets/B2B Transactions.png
+c318b6edd1965dc08b8dd742cf3386fdc1498928 public/assets/B2B&B2C1.png
+bd906ce82a13fa3266889feef82614cdb4f1f9a9 public/assets/B2B&B2C2.png
+cca4d563a36024afa6f215cab51f967bb09185af public/assets/B2B&B2C3.png
+eb532a87ba49d7ecb83316364b0dbcdd932be612 public/assets/B2B&B2C4.png
+3adc5a5f16ddb7c278b20a0641c75949e8a1e271 public/assets/B2B&B2C5.png
+4b104a97ac4d9b325a5d21f55e12e7c860b92731 public/assets/B2B&B2C6.png
+15069da20e4c09b64067325f48285245d14fee36 public/assets/B2B&B2C7.png
+76e588502334b43930379c473652e3dd47914876 public/assets/B2B&B2C8.png
+e2a412d920a58d41f2b2a4896c342c28d3023cf1 public/assets/B2B&B2C9.png
+eaf443a74ec655cad3161552603a2f83b481cc89 public/assets/B2BSoftware1.png
+9b614454c4e250e7fe1c37cd6c353136f0c67fe4 public/assets/B2BSoftware2.png
+feefd404af7929e888c7a93d5e265335e37d5f63 public/assets/B2BSoftware3.png
+0b0cdf60809abba6bd988e20c2c5c84e9bcd9770 public/assets/B2BSoftware4.png
+4569dddd2340192e3afb729ae1ded335e1620905 public/assets/B2BSoftware5.png
+a9b9a466f80e367b96d72f941bc20d9799e8efac public/assets/B2BSoftware6.png
+f02cb25fc2194d33b97bb0a14a128bfbca8b2966 public/assets/B2BSoftware7.png
+c805fa1983027a03daf166156b2df4c2b2b6184a public/assets/Bank Account Verification 1.png
+b7f182d1627588b8e932c0c95e8b0ea7087ca2a7 public/assets/Bank Account Verification 2.png
+a106b99e2f998e1516d72da7a041ecb1588a6bcb public/assets/Bank Account Verification 3.png
+f4af7ef22eb619e3c45cfd2a951306f10c4df567 public/assets/Bank Account Verification 4.png
+30c8b54197105f215a29c19a7c5b7dc4ac5465c9 public/assets/Bank Account Verification 5.png
+8deef90de6cbf022ec750ed2c9b7426af75aff5f public/assets/Boost Reseller Sales & Revenue - Copy.png
+d6fa72ea59b787220f932e9b69a5aaa854c692fb public/assets/BOS.Center Website Icons
+e8940796831ac84e47c0b31a1307670545d1891a public/assets/BOS.Center Website Icons.zip
+1bb69f372fe4fd1bab4c48d529b04b1a45cd0d3e public/assets/BOS.Center Website Icons/Bank Grade Encryption.png
+dd6bcfb6d68a5c8c73901f83ab24c157b5f6de8b public/assets/BOS.Center Website Icons/Banks & Financial Instutions.png
+6e0a668e67df20a6bf9735ef3360d9d6e924100e public/assets/BOS.Center Website Icons/Borrower Management System.png
+55a35f17b6a2185dbcd3e3626881144ddc680f99 public/assets/BOS.Center Website Icons/Business & Enterprise Software.png
+e8e70a9b98f378bc54a91117dfd5ba7fa9e85c5b public/assets/BOS.Center Website Icons/Capture, Manage & Organize Leads.png
+75439ced9bd1fe6f75db23a5512d2d65b182b755 public/assets/BOS.Center Website Icons/Code Samples.png
+0a6f4d938162de19dc08f43a99c7f25fe54bb7f5 public/assets/BOS.Center Website Icons/Collaborate & Iterate.png
+f01b98a03528fd2cd637fa946174b41abc7a19ef public/assets/BOS.Center Website Icons/Complete Banking Solutions.png
+264cea2b91e5385d9b914673dbbdc51a901e93d3 public/assets/BOS.Center Website Icons/Compliance with International Regulations, Compliance with Financial Regulations.png
+d8fa9a9ef1f4c5238da4e409cd7f89308e851c37 public/assets/BOS.Center Website Icons/Convenient for Customers.png
+bfdccf03c932cb5794bd4ebe11bd71fd6ec95043 public/assets/BOS.Center Website Icons/Creating A Project Plan.png
+14000ceeff250917b7ce39b255981e8eb19b2272 public/assets/BOS.Center Website Icons/Creative Design.png
+406011d38838c7075413a95838a497fec210ba1f public/assets/BOS.Center Website Icons/Credit & Debit Card.png
+d7d8c49cb449039d8445d3fe1afe56c241f2b1b9 public/assets/BOS.Center Website Icons/Credit Scoring and Risk Assessment Tools.png
+c1006fc7114a2671917d4a616e7166086d16049c public/assets/BOS.Center Website Icons/CRM Integration.png
+e92242cf6b83d9dae31a4b5adb69cf6ac3eae27f public/assets/BOS.Center Website Icons/Current Users.png
+7abb928b4883cd0e933e3a1c63a5c1ddf20803da public/assets/BOS.Center Website Icons/Custom Application Development.png
+e7828a868b417beb659257ef8898bd8dd9240fec public/assets/BOS.Center Website Icons/Custom Solutions.png
+511f75e0e3061098d15f38112ca6ebc64020434e public/assets/BOS.Center Website Icons/Customer Centric.png
+5b6055d0222ba4b02e816a4ce11c1ce9b7d03cbe public/assets/BOS.Center Website Icons/Customer focus.png
+d45b185dcaf9d4c0e012e705a026f8e3746e56ac public/assets/BOS.Center Website Icons/Customer Relationship Management (CRM).png
+b98e5eafc4e37962333be179b6fb1c77de7b6cd1 public/assets/BOS.Center Website Icons/Customizable Alert.png
+f309aeeef16ade7c46ea63816e2a827317e5c19c public/assets/BOS.Center Website Icons/Customizable Payment Experience.png
+1085b0eeb2e3093b70af322212969d1d825dad52 public/assets/BOS.Center Website Icons/Customizable QR Codes.png
+8ad80af26a68aae93c49d499b46be6a045772807 public/assets/BOS.Center Website Icons/Customizable Views.png
+b7d5bffd6cf785a7519b0e6ae99e6b24d8daa3e5 public/assets/BOS.Center Website Icons/Customize for Your Business.png
+851e53bb40b6525bf965ac26eceaf98176b2115a public/assets/BOS.Center Website Icons/Customize Solution.png
+853c232eb414f2e5b221744954ffe3b7ce1eea0c public/assets/BOS.Center Website Icons/Daily Transactions.png
+45982eddc9d8bae31559f9fca630cc4e9c808e9b public/assets/BOS.Center Website Icons/Data Security, Advanced Data Encryption.png
+df56b0864be6d197f8960518a499207ddafe7994 public/assets/BOS.Center Website Icons/Detailed reporting Analytics.png
+87f83f974dcbd8db0406235eddc0fcb01e34a3b1 public/assets/BOS.Center Website Icons/Digital Wallet.png
+bf397c8c0c9d1c69f8cfa0c8ed074336fa7cd105 public/assets/BOS.Center Website Icons/Download the App.png
+7fe9fd760bb56a3cf3a4d4d23317ac992fc7fff3 public/assets/BOS.Center Website Icons/E-commerce Platforms.png
+99f93c63aaee384f49119ebf848a021b9b1dfeb5 public/assets/BOS.Center Website Icons/Efficiency.png
+c22a62aa0cfe191af3c29f4d0c6cdaf06d494e64 public/assets/BOS.Center Website Icons/Efficient Cash Flow Management.png
+5bd3ef64aeadc93ba8c8e8b36c9c88f50aa27c41 public/assets/BOS.Center Website Icons/Email.png
+50fde0ecbee953f2f4da0d682520bf99a3b5a322 public/assets/BOS.Center Website Icons/Empower Employees to Book Travel.png
+6ad28a717322897b29d8e91ff9b1ebebba515cd7 public/assets/BOS.Center Website Icons/Enhanced Customer Experience.png
+d9e0770b53e3596c4035cdf6e792fcf8d38faf6f public/assets/BOS.Center Website Icons/Enhanced Customer Onboarding.png
+ccc5919c8a1d51bda2418a9062fc813717a11fac public/assets/BOS.Center Website Icons/Enhanced Productivity, Boost Productivity.png
+5bf065641708f63376e1258c358690a2406eead4 public/assets/BOS.Center Website Icons/Enjoy Your Trip.png
+5806f0d7501830d8088f00f37ae24becfe806806 public/assets/BOS.Center Website Icons/Experienced Team of Experts.png
+87320b3fbf84666a7968c4cdfb4e57e2b326fac4 public/assets/BOS.Center Website Icons/Fast Processing.png
+bccba850c17e01ad75d8b2d0b786c4766327b117 public/assets/BOS.Center Website Icons/Faster Time-to-Market.png
+5d1027376048819cfdfa5f746ab65a85414df974 public/assets/BOS.Center Website Icons/Financial APIs.png
+6a99f61d37a9efa02673a2da482cb166552f3a21 public/assets/BOS.Center Website Icons/FinTech Companies.png
+92d1512a8c34909c8e24bd45da1a3bcc4eed1b65 public/assets/BOS.Center Website Icons/Flexible Repayment Options.png
+d2f9279954686905573e85897f680258aa14f44f public/assets/BOS.Center Website Icons/Follow Our Guide.png
+cf53f682467879ca62a7ea44495af32337753682 public/assets/BOS.Center Website Icons/Full Transparency.png
+7c8a538270af08a6dcf70f4a77eb4d281eae75f1 public/assets/BOS.Center Website Icons/Fully Compliant with UIDAI Standards.png
+8e2ac1da96ffb70f49e1911ad80ffdb4dd833e98 public/assets/BOS.Center Website Icons/Gain Insights with Real-Time Analytics.png
+218a3e380d5c396c9ae182fdd95b59532768f649 public/assets/BOS.Center Website Icons/Go Live.png
+de21280eded98c9481272f968ff245e779c7f91b public/assets/BOS.Center Website Icons/Government Services.png
+a00f87161ba36af89074ed84ae9ec4ac0832c4ae public/assets/BOS.Center Website Icons/Healthcare.png
+5f340a33677c94db30efe876eaca4f7d60731430 public/assets/BOS.Center Website Icons/High Accuracy.png
+38841a537ce9952ff3fd930e28c021f73fc3cbff public/assets/BOS.Center Website Icons/IFSC Code Verification.png
+aeeeb4bbd0c8084500cd22486ec501d8dd78d6a3 public/assets/BOS.Center Website Icons/Improved Accuracy.png
+b8a138785d51c84137372708259a705d0eb73e6f public/assets/BOS.Center Website Icons/Improved Risk Management.png
+4478376c9273a9d2eebf62bb96f744c5ebfbeba7 public/assets/BOS.Center Website Icons/Inclusion.png
+3991c1484f2b35c86502b98e339e51c72d1e9ece public/assets/BOS.Center Website Icons/Increase Operational Efficiency.png
+17d7bc0b6b61dae37a0ac3ed6734e01b2b817a31 public/assets/BOS.Center Website Icons/Innovation Hub.png
+732595fbb79a32ba5c860f02a267df8700f0c30b public/assets/BOS.Center Website Icons/Innovation.png
+d63837dacbcbd1c37411dc3e4cef2227ac5d43b7 public/assets/BOS.Center Website Icons/Instant Aadhaar Verification, Instant PAN Validation.png
+f34baccd19bdaec7ac85eff81dc5577b3d289060 public/assets/BOS.Center Website Icons/Instant Access to Accurate Credit Data.png
+59f0447f5a18b6bf6e2f7cf133375e2ebd7f9c51 public/assets/BOS.Center Website Icons/Instant Account Validation.png
+53ceaeaf34c600554799aa70073017bdb8213dac public/assets/BOS.Center Website Icons/Instant PAN Creation.png
+acb60000387d9522cc37e945d413ef69b38f1ac5 public/assets/BOS.Center Website Icons/Instant Recharge.png
+cc1d501928467346f4235b552260af4447df72b6 public/assets/BOS.Center Website Icons/Instant Results.png
+23b78013ec574f561b3d2a2473dfdf56e0cf9318 public/assets/BOS.Center Website Icons/Instant Validation & Reduced Payment Failures.png
+2580f225cb4c4631413efe1335e2a3564b6e0560 public/assets/BOS.Center Website Icons/Insurance.png
+4fa9562814d3bd191c37176fbf56957599948c86 public/assets/BOS.Center Website Icons/Integrate The API.png
+bbc57f228688f8d32f9555f82127a1c114cdb804 public/assets/BOS.Center Website Icons/Integration.png
+350feb9a3085b6d9197a665ac0f5fd55e1ea1596 public/assets/BOS.Center Website Icons/Integrity.png
+1ded29c3262d86ca4f545798436d9d260cfda641 public/assets/BOS.Center Website Icons/Intuitive Dashboard.png
+000a17b0d8998074f52128ba8131ac54dc0c5a4a public/assets/BOS.Center Website Icons/Investment Platforms.png
+72498ba91e4f0148fcaf4d5a385f243e449de135 public/assets/BOS.Center Website Icons/Launching The Project.png
+55103a6ac69e0fa2a118fab0b6ce5adc643a35cb public/assets/BOS.Center Website Icons/Lenders.png
+130ad6f1dee913b605aed903c8b35ff17805262c public/assets/BOS.Center Website Icons/Loan and Asset Management.png
+63da5189c3db792d87839af6d57a674fc0be2ecb public/assets/BOS.Center Website Icons/Loan and Deposit Management.png
+84c94124bedd4f46e4424464f2b2dbf02f91ea65 public/assets/BOS.Center Website Icons/Loan Disbursement.png
+aa388c9efad37d57f46688f28bfcef83f795c637 public/assets/BOS.Center Website Icons/Loan Origination and Disbursement Automation.png
+56c38939f7fab0f9af5e21b46a81fa11d065598e public/assets/BOS.Center Website Icons/Manage & Monitor Transactions.png
+6dd708ea86cafbc5939e183b41ae22a87b29bcb7 public/assets/BOS.Center Website Icons/Manage Orders and Pricing Efficiently.png
+924ad59c368e4d1fee17b9f5c0a05be464f19e93 public/assets/BOS.Center Website Icons/Manage Payments.png
+578d6c76af25a214e5dbcc6d31a4ad4af8346f58 public/assets/BOS.Center Website Icons/Manage Your Sales Pipeline.png
+8206467ba37e25f4a8d7fefe204b00eeb7813c63 public/assets/BOS.Center Website Icons/Marketplaces.png
+505756fedea2284971df9ee03a386b072d3b0d0a public/assets/BOS.Center Website Icons/Member Management.png
+b3e94ce425619aad6f842cb2be8e9b45827c40d6 public/assets/BOS.Center Website Icons/Mobile App Development.png
+6cbbc28c7e03efa9e3bdcc500ef09af0d5f7b4b4 public/assets/BOS.Center Website Icons/Mobile Apps.png
+20c25d82c7a5e3e69beff949af0466e7b8325ee4 public/assets/BOS.Center Website Icons/Monitor and Optimize.png
+e90008ad899490bcb18e25f9a2effed6bb5f7d22 public/assets/BOS.Center Website Icons/Monitor Performance in Real-Time.png
+a81c0c45f364a5e425552fdc9c40d808846517bd public/assets/BOS.Center Website Icons/Monthly Payouts.png
+34807f4a5e389a29127d5ab7a5e78965bd2d9048 public/assets/BOS.Center Website Icons/Monthly Usage.png
+668fc99d84072ec2c46349ef87d668fa427f1f26 public/assets/BOS.Center Website Icons/Multi Currency, Global Reach.png
+6f1140e640f4afcef665581046cc9981e4cda9ef public/assets/BOS.Center Website Icons/Multi-Channel Integration.png
+37c819d64fc7bb50df671b3fa5090cdfbe53732c public/assets/BOS.Center Website Icons/Multiple Payment Option, Payment Selection.png
+7900f2e55aa32f7ebe556694f67f89f51bd90b2b public/assets/BOS.Center Website Icons/Multiple Transaction Types.png
+0d87776a6f83827e37401e0f5a953e18f270fa24 public/assets/BOS.Center Website Icons/Net Banking & Bank Transfer.png
+aba5c826593918d2ce33b5763ee4e9a885cbd2fe public/assets/BOS.Center Website Icons/Payment APIs.png
+14a1c80b433c2cfaa776993fd436c2938755d6c0 public/assets/BOS.Center Website Icons/Payment Confirmation.png
+60a78d70d4be5cf6db343281b54b20ea3fd85d11 public/assets/BOS.Center Website Icons/Payment Gateway Integration.png
+d2861829b0f1645469c02a8b94871941d57a1581 public/assets/BOS.Center Website Icons/Payment Processing, Instant Payment.png
+80f4669327753730c78416392b634f5651e65a50 public/assets/BOS.Center Website Icons/Payment Service Providers.png
+a308c635ab25c906e5927092d0c28697a61d45a4 public/assets/BOS.Center Website Icons/Personalized Experience.png
+e50579565fa49c5fceeabc99b04233221ab98b5d public/assets/BOS.Center Website Icons/Phone.png
+9e4cdc6d65cf17b4265f91efdfb580fddffdc771 public/assets/BOS.Center Website Icons/Premium Quality.png
+7c9660c5a5381eb106c018dbca6215241e85b682 public/assets/BOS.Center Website Icons/Proven Success with Data-Driven Results.png
+e44a4263b5c884648c804e6f1d61558e4fefc6b3 public/assets/BOS.Center Website Icons/Quick Access to Key Features.png
+9638b87233cb31706b50a4c377c604dfb0c2bb63 public/assets/BOS.Center Website Icons/Quick Start Guide.png
+cfd51f943908421780faf0d8654caecc5a45185b public/assets/BOS.Center Website Icons/Real-Time Balance Updates.png
+9071969b48687f2ced08d9eee673723c02f91ea3 public/assets/BOS.Center Website Icons/Real-time Credit Data.png
+e37ddb873a1a39046160ea569f6a57077a992fb1 public/assets/BOS.Center Website Icons/Real-Time Data and Analytics.png
+49acf765d7b302fe09bde01e1c91a0a0b705833f public/assets/BOS.Center Website Icons/Real-Time Notifications.png
+1b0db13bd890429a318c727de8333af14580ea1b public/assets/BOS.Center Website Icons/Real-Time Tracking.png
+a73043abd5a7cc57d7d7ad9e4f5363b3f582f955 public/assets/BOS.Center Website Icons/Real-Time Verification.png
+29ce20cab1a1eac8d87e025e1a47d624ff5e51b6 public/assets/BOS.Center Website Icons/Receive Instant Results.png
+207faf59db1a958b4fbaf6c59411ea870930023a public/assets/BOS.Center Website Icons/Regular Security Audits.png
+93b63a7d9ad44db71dbbb908936610f9994c633c public/assets/BOS.Center Website Icons/Regulatory Compliance, Compliance-Ready.png
+741e8cf6b185d53c38a520639ffb3a8cf773fa41 public/assets/BOS.Center Website Icons/Reliability and Performance.png
+d18a8aef888f4b33105fcaeeda7671036bc31456 public/assets/BOS.Center Website Icons/Retailer & E-commerce.png
+5bbe6ecc54397bb55d1e514dc230c26541e34b25 public/assets/BOS.Center Website Icons/Risk Reduction.png
+dd8621036076be77e43a8a7e16530b72cb69f31b public/assets/BOS.Center Website Icons/Role-Based User Access.png
+0a613df09cc46d8c344cb6f67eb173bb443776c0 public/assets/BOS.Center Website Icons/Scalable & Flexible.png
+46bf6b4413df129892241803154384e9164cb86e public/assets/BOS.Center Website Icons/Scalable Architecture.png
+ccc912b6328721fdd2b74aa51e8c820644a68105 public/assets/BOS.Center Website Icons/Scalable, Scalability.png
+c08ddd1aa92a17ace2043ddd62dadbd08a68a09a public/assets/BOS.Center Website Icons/Scale & Optimize.png
+3ca4e30aa7a60bbc38740499e2a7c91be2c57660 public/assets/BOS.Center Website Icons/Scale Your Business.png
+ab0757483b336728700e92c0ac705728334f5519 public/assets/BOS.Center Website Icons/Scale Your Reseller Network.png
+542bc66bbfa3c432530295b6e55881538b1dd020 public/assets/BOS.Center Website Icons/SDK & Libraries.png
+0fdbcc4e97339c4f9b83784d73dbb5c95b0d76c7 public/assets/BOS.Center Website Icons/Search & Book Your Trip.png
+2741c6d251ed74b02d21ffe4cd7e291f889f3226 public/assets/BOS.Center Website Icons/Search&BookYourTrip.png
+d38f5e84127413d366af502371db30011e007a65 public/assets/BOS.Center Website Icons/Secure & Compliant.png
+a5da665b0bc420b713b227a81ec41dae40cdc2a5 public/assets/BOS.Center Website Icons/Secure & Transparent.png
+b64febf81c3c5f43940f3889cd9cb1f06fe1cd99 public/assets/BOS.Center Website Icons/Secure Transactions - Money Transfer.png
+a56a3b7defbb3fdb11a65300c3d0f8c8ce9125c1 public/assets/BOS.Center Website Icons/Secure Transactions and Payment Management.png
+69085b66a7a5859d65328ba00de16ae8d0404013 public/assets/BOS.Center Website Icons/Security & Fraud Prevention, Top Notch Security, Advance Security Protocols.png
+dfaa91e1ab6b26782e9796c6a8f16b8a5ebd1e4a public/assets/BOS.Center Website Icons/Service Providers.png
+4e1923d83827008cf6d140956fad625d0f1d3974 public/assets/BOS.Center Website Icons/Set Payment Schedule.png
+e03cbc286d8ef62206ad845b00381d8604f66aa4 public/assets/BOS.Center Website Icons/Set Your Travel Policies.png
+0d5a17771f3a4ccbd9d44f834d325893507fe468 public/assets/BOS.Center Website Icons/Sign up.png
+69f8e36fa3f0ffa70609922cbc80f2fdf5870498 public/assets/BOS.Center Website Icons/Smooth Payment Processes.png
+42f0350753c2d68a9203f8ce85603e8d22c00a43 public/assets/BOS.Center Website Icons/Start Collaborating & Automating, Improve Collaboration.png
+5e451163cb9a9d63c817db6cba1250e8b9d858d7 public/assets/BOS.Center Website Icons/Start Using the App.png
+e97c88f9bee5aefff059bb347511e00b4656b7e8 public/assets/BOS.Center Website Icons/Streamline Operations.png
+d0e5e55022a9455051bf2e670c7deeb7f1dd20f0 public/assets/BOS.Center Website Icons/Subscription, Automated Payment & Process.png
+aba2593c7976d9c1d2d32939fa498e7b8096e715 public/assets/BOS.Center Website Icons/Supply Chain.png
+71607a9a1cfc9db3dbe8108aa37a64382cac3c1d public/assets/BOS.Center Website Icons/Support & Community.png
+eaab157d6e9571ba51abbdcfea26b87019b1cc99 public/assets/BOS.Center Website Icons/Tax & Accounting Firms.png
+26ce858c7668f16691bdad27bc24563bfc221cb4 public/assets/BOS.Center Website Icons/Taxation.png
+d719dfeb96ae6bd734dd73c785e972afaec3ed18 public/assets/BOS.Center Website Icons/Telecommunications.png
+1196bb2409436295d6dcb7efce31b96654e2cc19 public/assets/BOS.Center Website Icons/Time Saving Automation.png
+825d366c0c394d9053f3156517ec36b83e1baa0e public/assets/BOS.Center Website Icons/Travel APIs.png
+55ee738bbe1ac4e7163bbfebef20017f0d705917 public/assets/BOS.Center Website Icons/TravelAppIconEnjoyYourTrip.png
+973cbcafd9bd571943fe8e1b1fb58c65e9371228 public/assets/BOS.Center Website Icons/Understanding Client Needs.png
+4ca78ad2493e2bb8cbcad4de6eae556662ad07ae public/assets/BOS.Center Website Icons/Unique Blends.png
+0f221d4258e59c768cd14156f5fcdc251817a7bd public/assets/BOS.Center Website Icons/UPI & QR Code, Generate QR Code.png
+761a111d82acb80396b82e74bb8ed7f5ccb968eb public/assets/BOS.Center Website Icons/Use cases.png
+9adef75e14d6dcfb93bf24b9dacd264518e01ee0 public/assets/BOS.Center Website Icons/User Submission.png
+d8e749e4e3e3da04c2d648af20da4178a4712e43 public/assets/BOS.Center Website Icons/User-Friendly Interface.png
+3d6b1de6f12970dc02370c58a9f4cb51d9cee736 public/assets/BOS.Center Website Icons/Verification APIs.png
+b684164db0068228aff6e36f51f3c2267ea22c23 public/assets/BOS.Center Website Icons/Verify Aadhaar Numbers.png
+5bff8942eca9b4ea8b6eb63da4137110b895da16 public/assets/BOS.Center Website Icons/Verify Bank Account Details.png
+ec180550af58498019a803e329d3e4525211f20b public/assets/BOS.Center Website Icons/Verify GSTIN in Real-Time.png
+cc7ef2db803d15baddf23aa8e0402b1c5edd192a public/assets/BOS.Center Website Icons/Versatile Authentication Options.png
+5425e856d2f39798dd3e22b67c04254e0aa9af1e public/assets/BOS.Center Website Icons/Web App Development.png
+df5c7e0c5c5f6cb751170d9f7a3f851d4ed0a83c public/assets/BOS.Center Website Icons/Wide UPI App Compatibility.png
+8922c8f4af5c0b1055ff10efee8503a32a1a516e public/assets/boscenter1.rar
+1bcd8a68ac78dddf1fd1dcd33e934992872e98d2 public/assets/BOSCenterHomeHero.png
+c41468a81ac3b43e64492c7b246bc6cd1e836472 public/assets/BOSCenterHomeHeroImg.png
+f20d3f429d053553786d41d6134000f82a950ab9 public/assets/BOSCenterHomeHeroImg2.png
+08b1570ebb42e9351d79bc3c1b1ad67f5afeed29 public/assets/BOSCenterHomeHeroVideo.mp4
+3f8d72748a0b30961c3bfc859e16a3cc41de43af public/assets/CIBIL 1.png
+febc48fe949bb3599742553348ef29a0032d79cb public/assets/CIBIL 2.png
+334a16560b523fd67c7ab40077d4880ea6a456ea public/assets/Compliance-Ready.png
+9cedded1ce87530144061714712d14093d290969 public/assets/Comprehensive Security - Copy.png
+cd2a83f1bca428e908586bd905a8b3eb95ea0b5d public/assets/Comprehensive Support & Documentation.png
+743e7f78c91f5378e0bd01738c4bb3ea1901077f public/assets/Cooperative1.png
+055f6cd252591deb57be20db0066c0368463dea5 public/assets/Cooperative2.png
+23baeb6849a108e190f5c65734ac308af02bfe62 public/assets/Cooperative3.png
+fd2dccd86bcafe39ca10bb8e79572356df18ec43 public/assets/Cooperative4.png
+126d87f66e3261972d1f3f64b639ba0a1b63d6d2 public/assets/CoreBanking1.png
+8238a9681d49d0a129a9e80b113136b35894a53a public/assets/CoreBanking2.png
+4ec6bfab8015f8b693a97e75c780c4f027a062ee public/assets/CoreBanking3.png
+c44ad395858abe0411cb99f7c3235cacfa687f0a public/assets/CoreBanking4.png
+02fa18f0830b85bef56de5113922dab00849a492 public/assets/CoreBanking5.png
+4d2a11c23d3c3de8c1bf8d341ce37224f58a7b1d public/assets/Cost-Effective.png
+ceedb69ab3541afd6860f641d50dde8ae8cdd318 public/assets/CRM1.png
+d81c70e3845c9c4c5df6e68b90137a9a43283500 public/assets/CRM2.png
+440c4a2873d53e89fa2a1fac6b8021014802c8be public/assets/CRM3.png
+13934865d3be39689574e67552bbb62e3c1c45b3 public/assets/CRM4.png
+61688e268bc8e8074a7d598c7ddf5aca6293dd91 public/assets/CRM5.png
+75d1c27d4012f97bd130319ffb7f0eb7275b26c7 public/assets/CRM6.png
+0dce5a9a25dd3008b82151598c33973121092477 public/assets/CRM7.png
+da8595073049c33e6d15c74b5d1446068e03c581 public/assets/CRM8.png
+019539fdd53487deba1bcd413c08b31a0415cbe2 public/assets/CRM9.png
+82ac0966924d0bcfde1aad45030b262d177a44d7 public/assets/Digital Marketing 1.png
+6aed2a0dc0e58a9961ec3e42d8b36156f2647d18 public/assets/Digital Marketing 2.png
+508093b54e6c6002d5c9add42cc39583b41ef840 public/assets/Digital Marketing 3.png
+499f5e0015d5b8a277052f0b1c2345728377b66e public/assets/Digital Marketing 4.png
+013aed3401118eb8ebcff60119e7fa927f63bfec public/assets/Digital Marketing 5.png
+c14b4df07a3c0274c225fe82e299cb50951356fe public/assets/Digital Marketing 6.png
+fe26e5032d3d1eb4f1e98c32c68ded65e80fbb90 public/assets/Digital Marketing 7.png
+c9fb02e8d3ceba4a6e43f896e74c84c24e68c5e0 public/assets/Digital Marketing 8.png
+12d745da63b94480abc43575d9ec93302cd2e491 public/assets/Drive Data-Driven Decisions, Make Data-Driven Decisions.png
+603db12f8af2ecb7f84427cf17fb9d181a2c23e5 public/assets/Easy Loan Origination and Application.png
+88604cb18c726df8dab4fea1e82668bf53ffaa68 public/assets/EMI Collection 1.png
+c62b855cdf70a17b2af8233980c5afa1738069d4 public/assets/EMI Collection 2.png
+ba1f70ec62fb8db4d4e890c256bd3b63fea3ec3c public/assets/EMI Collection 3.png
+87dd0193353680360494f558aebe4e65e01262c6 public/assets/FasTag 1.png
+6ff9b95826d49c137073b4c0f9be149afbd9a0a0 public/assets/FasTag 2.png
+ee513fac13eaefdb72ec8c5f33bbb165d1bb53ec public/assets/FasTag 3.png
+cf63fa938c8aa28ea139712daf5d651b82d6e4d1 public/assets/FasTag 4.png
+76934e9f98af36fd6d05aab0becf46900e07dd9a public/assets/FasTag 5.png
+33b3a43e67d3ff25126939e3e7d510a388f8a934 public/assets/FinNest1.png
+2128786e588915d03eb0fd13c1a0c9be01b99057 public/assets/FinNestAdmin&Managers.png
+e0a6f17bd8fbdbbe4c09f157df8b27dafaeee727 public/assets/FinNestCustomizableArchitecture.png
+1d55060fa199a4719d8fdc7961d76f628a58a153 public/assets/FinNestFieldStaff&Agents.png
+801855287f7787b0d873f5f9836b2b46410af858 public/assets/FinNestRealTimeNotifications&Updates.png
+e99224a01c2dfad68c39d8f5f666532ee65ca036 public/assets/FinNestSecurity&Compliance.png
+0f912c491aa86939f1ebf745f96b51d350d89736 public/assets/FinNestUserFriendlyInterface.png
+5e1e4bb50f4241ae5e4ef0348e6072cba9725e05 public/assets/FinServeAPIIntegration.png
+eaa7985ab93cffce54a7963155fdbaa86118f911 public/assets/FinServeBusinessOwners&Admins.png
+18b1934021ac10dfcbcff27e4e3809c6de0a21ed public/assets/FinServeHeading.png
+51c023ec10cfb121b5e0ce7b462846b5d177d403 public/assets/FinServeRealTimeTransactions&Settlements.png
+33a12b29838e6fe8120d373542e075554375e9c9 public/assets/FinServeRetailers&FieldAgents.png
+423eb8abc5191962a1810c4c9b29de6f6167d3b6 public/assets/FinServeSecureCompliantOperations.png
+5fc824820c5a10be2cf71610458b580d474250f9 public/assets/FinServeUnifiedMerchantDashboard.png
+c47563483a1d5b3863787070163c4401bcfd1c52 public/assets/free-user-icon-3296-thumb.png
+c3f4d37b9578298c6c1a567174f010fea7a21f3b public/assets/GST Verification 1.png
+17c9fe3f30b5c2afa98dcf8c92df4f978052e80f public/assets/GST Verification 2.png
+4b3c6dac9e39389e6bb45b897815e34eaa421d34 public/assets/GST Verification 3.png
+3f46336886f64e81d9d067eef7d50e7732eb0ce3 public/assets/GST Verification 4.png
+9974009a05a2c6f8e120afcaefc69594fb6c9c70 public/assets/GST Verification 5.png
+538248fc260102045934b26f3362091e92133333 public/assets/Home.gif
+c49678cf60bc85c4d7eb479067ad5b4bce0b56f6 public/assets/homeVideo.webp
+45dc5941f00126a3242a54c945b04b4139928426 public/assets/Lending1.png
+441b101d1fd95f19734958b8d408399702d1ab76 public/assets/Lending2.png
+b2c01c19468f21ed021c5b55248c47ea5f7bb6e3 public/assets/Lending3.png
+54c8568ee90425ec5832813c712bb7f193a8179e public/assets/Lending4.png
+cee5a239b62d61da6cac9316d441e930fe039bec public/assets/logo.png
+90430b65d2a23d6119878e8a7fb62872d8d8627b public/assets/MicroFinance1.png
+d46a7a68f181791901b46119ca62143effd46ada public/assets/MicroFinance2.png
+50f9992d48b505d9da87c91fe7c5d1f6b43fa641 public/assets/MicroFinance3.png
+0e5d080bec3c1b01621f1c26c530cba4259d8d4c public/assets/MicroFinance4.png
+c9f49702244378ad5299ba3034195cbf2b7af2d5 public/assets/Mobile-Friendly, Mobile-Ready Platform.png
+4f089a68b148e7849424dd238e052e6ac99e6b28 public/assets/Money Transfer 1.png
+62da5f0ff29f32d8aec0aa2c424a6bba28dcfcc8 public/assets/Money Transfer 2.png
+45c12c39d1adbbcd8be5cdff0956348ad10c51cb public/assets/Money Transfer 3.png
+f4a06c0cd866fcde053035c2863dd67ccd7cc84f public/assets/Monitor & Report on Travel Data - Copy.png
+2973649b6e186ac5435850a574f133c65d4804a7 public/assets/Monitor API Performance, Monitor & Optimize Performance.png
+f3ffec77e5f4c7a4fb42a2c3cbec19e290daf5a0 public/assets/NBFC1.png
+e2e21d23ab47c9e7ed068fad5a66c7db28a56112 public/assets/NBFC2.png
+dc7fb0af6fe68d8b945cba9453b3526bcf3814c3 public/assets/NBFC3.png
+476567f58cfc0517b98f6b4384538063552ebe5e public/assets/NBFC4.png
+b373957b7ecb2094d525127c0375433fc7238221 public/assets/NBFC5.png
+26c20ca6e19d4c8f67016d7eb0a73f6bfac780c7 public/assets/NBFC6.png
+024e01dfda725b7f93672d699142f24ae24a1bf7 public/assets/Nidhi1.png
+d4a295d481fa8618432b5e79a95f3527ee49035e public/assets/Nidhi2.png
+066bbb587388d9678d611312995d69c2b0fff1a7 public/assets/Nidhi3.png
+c7693dff43decfbd5087ebaa89c244d0ab40ee12 public/assets/Nidhi4.png
+4de9335c512871e58f9e06110b8250bfe2187754 public/assets/P2P Lending Software.png
+93bda88ce0e8547e1a74bbff374efa755f3ac93b public/assets/P2P1.png
+79e147403d1dd1dfe8d04cadfddb31456acfef31 public/assets/P2P2.png
+9f94d79c70ce157190bc38776defd28560abd732 public/assets/P2P3.png
+5cb3705ba015c24345e8a6169c090fa0210f11c3 public/assets/P2P4.png
+2b38c5768b1e0b6c7992007c4ff5086df05a9190 public/assets/PAN Creation 1.png
+f59f62c46407ae381a1601a96cd84fbfee8940aa public/assets/PAN Creation 2.png
+f4ef95e07776cb4bdaaca4fad1004e333e4003b8 public/assets/PAN Verification 1.png
+7ad2c5932f2a92cf4cc05eb86b8a6a2d455b4d2d public/assets/PAN Verification 2.png
+d6852f173d1594a7b48789c0ec91de1a33889f49 public/assets/PAN Verification 3.png
+fd9dbe2fbd953b225bdf27bce1e0f22b7c0de316 public/assets/PAN Verification 4.png
+f1935e0e5755f06b47e01e0c8b9677e1b99a07d6 public/assets/PAN Verification 5.png
+b013bfd127333e3789e04d60cdfe4f6910526010 public/assets/PayIn 1.png
+52e1461269391f3b4c346d5105db0a5edafb2a4b public/assets/PayIn 2.png
+b268a647438a88570fab586a3f99affbff9afe64 public/assets/PayIn 3.png
+51ed233df0ae5bc1bdad2aca8cfba319f138b035 public/assets/Payment Gateway 1.png
+27c84c80cff04460d4d820652473f8b4fb8c668b public/assets/Payment Gateway 3.png
+e20cfe2b82ec3025bc35d0d65c3281212304d246 public/assets/Payment Gateway 4.png
+8a3e156225a99aafb2166daedd34a06770852454 public/assets/Payment Gateway 5.png
+f4d8285d74177a654e2b319d590c442ebc17d1f9 public/assets/Payment Gateway 6.png
+70aa4994c7dde8c1c2b48c8868425e2e0ea5e3b2 public/assets/PayOut1.png
+b74dc14447c975561141f6c9ae3fd7231bcdcd2a public/assets/PayOut2.png
+fed5050bc9918d72187fca5f6f088b09e981ba53 public/assets/PayOut3.png
+110359b14c0bd08238438a7611e7b2c476545615 public/assets/RD&FD1.png
+79661578077a5bb6f4f651d2c5b882d8a782d1c9 public/assets/RD&FD2.png
+438595a37767c854d3e05530231d3d620edcb9ca public/assets/RD&FD3.png
+1f3960eea7f11a2bf7ccc94f236671ef69d3d440 public/assets/RD&FD4.png
+95e2238a2bd0198c4d46dc0ecd06328f27a78cd5 public/assets/Recharge&Bill1.png
+32c8db280f108582573caaeafad5146514b47308 public/assets/Recharge&Bill2.png
+f424dc2087bbd3cc57d41892b2689959cd349814 public/assets/Recharge&Bill3.png
+44cf23675320065b7a523ad886ade51157d8b545 public/assets/Retail Store.png
+f7799356d64229201f1c8d8d46f7fdbded9c2a0e public/assets/SectorsHeader.png
+aff531273276ff7ca0cf8ca72a4a6b3de5b2f051 public/assets/Secure Your APIs.png
+5a45950046407792b74ff17759423075aee9938c public/assets/Track & Approve Travel Plans.png
+d7f8dcb938e99ae7a17ca2334f9b8ceabeabb145 public/assets/TravelBookingApp1.png
+9da9aa5ae99d147b4450512035808e0ea476bc60 public/assets/TravelBookingApp2.png
+14c9a0982f45b0bd783c8771587050f3cc250db0 public/assets/TravelBookingApp3.png
+cbb401e36e179e68cc2f3eba77b2e01c43567f6c public/assets/TravelBookingApp4.png
+4c2c66e588790b5844376d718f20e1e04367dca9 public/assets/TravelBookingApp5.png
+d42da97722d14530419bc40fff9f0a8bcfce9769 public/assets/TravelBookingApp6.png
+469120a5d5e70513fd214e88845a8e2f06b617a6 public/assets/TravelBookingApp7.png
+ed7ba84000b17e05c3ab579f2247ba40205d13be public/assets/TravelManagement1.png
+a6ef2cf6cd030d4bca2baceea1467b9aa3171046 public/assets/TravelManagement2.png
+52a302a0a7e3de1d2607682c9edd73bfc2f2cfbf public/assets/TravelManagement3.png
+bee3aa7c7400ecc07695f64eced8926bf68396ed public/assets/TravelManagement4.png
+77396803dc410da506a6074d217c1c9c38241093 public/assets/TravelManagement5.png
+84bad38cf376cd81b401f2e1b563a0eb8463ac88 public/assets/TravelManagement6.png
+9507169b5d5ce94bc7b40ed7aaa5224e348d953b public/assets/TravelManagement7.png
+e3abd6245ed032488acd4388c14b74a522d52d52 public/assets/TravelManagement8.png
+62fe5042166ece6fa46166d530a36afc0a179631 public/assets/TravelManagement9.png
+1fac2504a3bfc6ebe9c0de69ec42a544dba77a70 public/assets/UPI & QR 1.png
+e6a977e336a1f382aaafa928d195ca15897b5ad2 public/assets/UPI & QR 2.png
+bcbd6e50d33dc12f703920336ca7bb062f5accc1 public/assets/UPI & QR 3.png
+c1e9b23f7d0988ec4de566bdf8113acf235449c4 public/assets/Virtual Account 1.png
+d9121c70555216dc7c1fe92c3311a3a069a70965 public/assets/Virtual Account 2.png
+7f5b9498adb96de9ff21396f438144c30d52a29b public/assets/Virtual Account 3.png
+2bbacd956ec24caac62e3c6553c6cafb6ad92c74 public/assets/Virtual Account 4.png
+4ce1a53dd588904ade42dd59abf7cdcea4b0f71c public/robots.txt
+672c0b6652b853b137888a5491c8d1f62c4888f5 public/sitemap.xml
+6466ead42ab0cbf876b1ef936049021d3f817626 public/sitemap-0.xml
+41135410d4f66fcc3e464d1fd68772c435278d5e src
+bc3c6c3d62016aa5317196e2273fa1857bc07580 src/app
+bab6150004cf79bced19a0dd9891c087d351ee19 src/app/about-us
+afbbc892e437038f739a3433aceac218f6408ac5 src/app/about-us/page.js
+ca097f22c7568f39639f4e9bf409212b97d7208f src/app/advantages
+2b8471725d147760466883e1835ea536dc391bef src/app/advantages/page.js
+ceb1988dd1a8dbdcab918df8e583ed954af93e30 src/app/blogpost
+7a8c80c500574826455a36c16a9dd384c947dbcf src/app/blogpost/[slug]
+49eecae2fbe5ba769f11f661bc3fb41ab90e3f1b src/app/blogpost/[slug]/page.js
+018ad4cda88910431d920486ab4124e8ee415eca src/app/blogs
+a8ef2cab884d5b1c7aeaeef2db1c43aee1bb0a79 src/app/blogs/page.js
+9fc424fdd2161f3e1e69dc6588fc7bc7981085df src/app/cancellation-refund
+f9f03dc024a890a7a9dc323c0e02a1db5a8b5e17 src/app/cancellation-refund/page.js
+a43e43209ae35d8b92523907d00d5887622871fa src/app/contact-us
+bffa834e97c247e634b66dd6217470f00b9604bd src/app/contact-us/page.js
+00181568dbe3d7775a931be7ab03f8ff2346d391 src/app/globals.css
+6aee55865a6cc209ce2f24cc0c41793c033c31cc src/app/layout.tsx
+5755586df9f52dd7d2aba13b26a7ecee4793880b src/app/page.tsx
+ed1e944e6cee3846f8cf2fb0ca864c54d0bf3be0 src/app/pricing
+9e117bc0aaa7ccbca2fda2cd108f6d006211c5a1 src/app/pricing/page.js
+46736e249ec65925c86330d33d36379bb71c81c0 src/app/privacy-policy
+c4a9153d8c335ed3fb13ae9974d18fa1bfdf0fc5 src/app/privacy-policy/page.js
+82f9f6fbc3229b5e5e62483b99890477f49546e3 src/app/products
+cbf86cabb9acc2f97cf4c5b4debca3682cc3b810 src/app/products/page.js
+e4a8f998925944da11972b7d5d76b31a1cbbf1df src/app/sectors
+4b3e3de8f993425287add5113e622c92f64327bc src/app/sectors/page.js
+9eed93fad2a80110ee031368b195d59b7e5435c2 src/app/seo
+a54c709c9f2fb909e24698fe445397ad0c79fba1 src/app/seo/page.js
+5f9e1d2e4145a4e2c884991a54c3670ae7058686 src/app/services
+7595ec97c4a37314c5d770b873fe2f1431fa6c97 src/app/services/application-development
+1adc493cf2f4d5c87165bcdc683218a78588f8a9 src/app/services/application-development/page.js
+2bad6b1d646badfa00e85c4fa69595ab99b50e4f src/app/services/banking-&-financial
+b2590febd8a97134a5d4cbb7cae55732b23ae1c7 src/app/services/banking-&-financial/cibil-score-api
+01cf943393c2b28c6321214c872cc3d92ac3c8d0 src/app/services/banking-&-financial/cibil-score-api/page.js
+446f1e81798a17fa49e640d99ecdbfdce09c1606 src/app/services/banking-&-financial/fd-rd-deposit-api
+ca36e0f2afdc621bad9c123bc34c68ab73ee9836 src/app/services/banking-&-financial/fd-rd-deposit-api/page.js
+e0b2cc402bdb5916bdb9d3c1e46ebe26015d12b2 src/app/services/banking-&-financial/pan-card-creation-api
+c15c81411b87a7893d997ef1f95fc44e20b65ad5 src/app/services/banking-&-financial/pan-card-creation-api/page.js
+4b4013f3b30a3085443a7261d0552c116a6bbc1f src/app/services/banking-&-financial/virtual-account-api
+935a696ab00f9eab79a76604d2d5a6a4804eb1be src/app/services/banking-&-financial/virtual-account-api/page.js
+45aa5c7404c4569d79d95390098f88ca2c2f5bc9 src/app/services/digital-marketing-services
+8d39af4032e2f522b312deee3ed688aefc8c3747 src/app/services/digital-marketing-services/page.js
+18b274cd6098c0402d059edd2524093c26db71f8 src/app/services/payment
+356b8a4507316751ef1c618fd9ac181b9bcaff47 src/app/services/payment/aeps-api
+126223f1389a1908a22aa76ff051e2c818dfca0f src/app/services/payment/aeps-api/page.js
+30cfa8b018817dbbb55324f78ffc3c7d33342241 src/app/services/payment/emi-collection-api
+ea3fdf68eb1aae90402f2b414efd941ff497fb4a src/app/services/payment/emi-collection-api/page.js
+3b95f139029a9d522456be1577d449a13975f5df src/app/services/payment/fastag-recharge-api
+a64e2c12ea2b67eda86ebaec4b0d5617a78d116e src/app/services/payment/fastag-recharge-api/page.js
+403fde45633a317118e978bbcce011424c62daf0 src/app/services/payment/money-transfer-api
+58203d484a5c90a6069d4676f0cda521eaa06d3c src/app/services/payment/money-transfer-api/page.js
+cc37bf6b9e4e177d994cf7c0e6e33f5160306197 src/app/services/payment/payin-api
+8478fe94be26f66c3b6c8252b4b6db541a93d297 src/app/services/payment/payin-api/page.js
+5bdf729cfa5e58f4107b6a8219cb1a143c1d8a97 src/app/services/payment/payment-gateway-api
+72dbe07f505886203f6c38e99dd6fd6ea43c0ec1 src/app/services/payment/payment-gateway-api/page.js
+998b881487c6173f8949e727685755841df27856 src/app/services/payment/payout-api
+26623adf048b1529267fed0b622a8f437c95f58d src/app/services/payment/payout-api/page.js
+cf0ecdf6c65498badcd677d23045383da57e7e32 src/app/services/payment/recharge-bill-payment-api
+5e3104dcc88bc92a7c94e3e0438744b474ae2a3d src/app/services/payment/recharge-bill-payment-api/page.js
+0f4d8324acdd76be6f4fefec4c91381ddd8050cb src/app/services/payment/upi-qr-payment-api
+46d3c035ed9ffff8501abae2dcf89631a4edd2b6 src/app/services/payment/upi-qr-payment-api/page.js
+3c1341fee1dc40c042d13f4b0a03533204969625 src/app/services/verification
+4e75009fbb61571c8ada3a5ed802cfc3aa5e3b10 src/app/services/verification/aadhaar-card-verify-api
+fbb9e192784afa6374391d71130d2a0c927eeb96 src/app/services/verification/aadhaar-card-verify-api/page.js
+49054fcf1719702d189209d11e424420dd982853 src/app/services/verification/bank-account-verify-api
+dce4eac3451d5e6775fe244da6a3371329a51ddc src/app/services/verification/bank-account-verify-api/page.js
+7c5f55b00564ea6380bb9073a16c7ad855744898 src/app/services/verification/gst-verify-api
+cdec965550d352266af685d838bd5fe61fbccbe3 src/app/services/verification/gst-verify-api/page.js
+ad1bfa0d81a4334a1b9ce28e62c2c66958fe206b src/app/services/verification/pan-card-verify-api
+06391129e668a58c1db328d8a183e2bb49d2ec52 src/app/services/verification/pan-card-verify-api/page.js
+2a69c792ea8a7905849b3bf3606231b232ba9e1b src/app/solutions
+b211ebbb1841261c5c661ef8f9581092a41363ff src/app/solutions/banking-financial
+554508e28ddec67a18273f7dc53d1d0c516cd687 src/app/solutions/banking-financial/cooperative-society-software
+ce325dae649d0419681381fe90499323d302ac86 src/app/solutions/banking-financial/cooperative-society-software/page.js
+7ebfcc590ddcd72c3fc49597f95ac92a52421f9d src/app/solutions/banking-financial/core-banking-software
+00a3ae0f22b8f2a4714d1f9eb45bc4536cbaa90c src/app/solutions/banking-financial/core-banking-software/page.js
+5896b2697b417a01a48eaf704a4d28ee27aec2e2 src/app/solutions/banking-financial/lending-management-software
+51e677936ed67240afe90bdb15f3146efd9d3e42 src/app/solutions/banking-financial/lending-management-software/page.js
+4787acd885280d602c8f5a3a23f8287efcf71bc8 src/app/solutions/banking-financial/microfinance-software
+ec0551167e1b900ca450ccdbfd214db6ef8b6914 src/app/solutions/banking-financial/microfinance-software/page.js
+8460becef9c7a7bfecabc16f4728e487a7839155 src/app/solutions/banking-financial/nbfc-software
+dceb0c6fd8e999a7dea80ecd5e7f269fcdf59914 src/app/solutions/banking-financial/nbfc-software/page.js
+5cb9e2fefd0a5a5543718cc4e7ec7bd4d19407df src/app/solutions/banking-financial/nidhi-company-software
+a8e2bd7b72f61886a68bc30085a47012d1369895 src/app/solutions/banking-financial/nidhi-company-software/page.js
+203bb87f8fe696b2d07347857b80c56614412a39 src/app/solutions/banking-financial/peer-to-peer-lending-software
+cd531f4de940d877320e2e174d03b9866bb66dd2 src/app/solutions/banking-financial/peer-to-peer-lending-software/page.js
+70a33c70b90ec00034fd22af90527c40b1d503ed src/app/solutions/enterprise
+00ceefa6bb75b9795fec5d3029f223c98590ded2 src/app/solutions/enterprise/api-management-software
+9838d1a89b430374f86f15e8e4818e5b94bfb1ca src/app/solutions/enterprise/api-management-software/page.js
+7f30fcc7422d2514bfa8da9ad65a6417cbc447ec src/app/solutions/enterprise/b2b-b2c-management-software
+6d947cbb84a69c8001c104d44e56c6688bf470c0 src/app/solutions/enterprise/b2b-b2c-management-software/page.js
+43fe413efbd46aa1daa97e9143f85092ce5e321c src/app/solutions/enterprise/b2b-reseller-module-software
+b95ba4fb02240f051a1373557b69e5c88544e3d8 src/app/solutions/enterprise/b2b-reseller-module-software/page.js
+18890c265d3f0716bf45477556d4f84df98195e6 src/app/solutions/enterprise/crm-software
+3facee374c5059f09f53e52d8e1753012b5b562d src/app/solutions/enterprise/crm-software/page.js
+74e6df3e29fb269d3f2109445019189af933a5a2 src/app/solutions/enterprise/FinNest
+bb109a6a114d2b7a5730870f9aa4fbd9bf8f1b5f src/app/solutions/enterprise/FinNest/page.js
+dcaba74673614d5ea83771ebe2b074ab9419c936 src/app/solutions/enterprise/FinServe
+379a1e2a797e28e3f87a17de825e6719c639c2bb src/app/solutions/enterprise/FinServe/page.js
+a0197def93df7f3261d1a18ee5a9d638e4ede8e6 src/app/solutions/enterprise/travel
+de937f526b0b49f422bf6db3b69bebbfcf4e223a src/app/solutions/enterprise/travel/bus-booking-api
+52acc9867a084e4baa6a628a8083d7aa24a44324 src/app/solutions/enterprise/travel/bus-booking-api/page.js
+1da4526b1e3aa913eb50fbbce6afba0fa39f97ef src/app/solutions/enterprise/travel/flight-booking-api
+fa812f5d56d1e63f30edac589e19037d3de1be23 src/app/solutions/enterprise/travel/flight-booking-api/page.js
+a19d8581d05a4704cd803afde66a9d40a002ed81 src/app/solutions/enterprise/travel/hotel-booking-api
+8fea1496c238d07dcd442a535518e2fa5847a20f src/app/solutions/enterprise/travel/hotel-booking-api/page.js
+c440988bf36871a06af9a9804a95ac0568b511fb src/app/solutions/enterprise/travel/train-booking-api
+d4d6d6e1814f893c86ffae43693a1ad42751ca70 src/app/solutions/enterprise/travel/train-booking-api/page.js
+0ca827e2bd385741e1af671fd0c13f7530871ba9 src/app/solutions/enterprise/travel-booking-app
+1effb2d5deef7d458c6f2a1831a5a8135024aa33 src/app/solutions/enterprise/travel-booking-app/page.js
+db33bb34e57e49e3501efe0e220135bdcc22e731 src/app/solutions/enterprise/travel-management-software
+3bea056ef8ec2c10571c3f3dd2fb1427b8d4447a src/app/solutions/enterprise/travel-management-software/page.js
+3884edf5f8c8c52e8775245b7166fc0e679ffad1 src/app/terms-condition
+fd4934cd30db399d9fac291d58f52995c564c0e6 src/app/terms-condition/page.js
+f0f6f7c1210070d90d52f209598eccc1855a0740 src/assets
+596d6b5c43d57504fc80d904dd675121b74dd420 src/assets/about-us
+3c195c13f02f3505b40c47dffb1b045265cef137 src/assets/about-us/about-us.png
+1e184ecd6cd8f4643608dfd7ed999b6077ca719e src/assets/arrow-right.svg
+2222c7f199f29e99502c51ad90c8583632fd1fc5 src/assets/avatar-1.png
+d7a080f42bf180daf75dc3a52010ac263607dddd src/assets/avatar-2.png
+c2edeb1026b06bf0c378052b8c5c0f23b00a36d5 src/assets/avatar-3.png
+301617b0de064d99a1d72f1b3d349dade3bcae80 src/assets/avatar-4.png
+8afaaddfae6ec28924b4b07271cbdb543f3ef846 src/assets/avatar-5.png
+994ac987f2bf72c9b8a87e19ab7f2a78bf165b6e src/assets/avatar-6.png
+ebb4be45c0721b33a0a3c9acc02f400e57f7bac0 src/assets/avatar-7.png
+f8819a87e743ddfb08eea5794d276e059bc1a39f src/assets/avatar-8.png
+3d45a32568069ac347a8db287f987d9071eddd87 src/assets/avatar-9.png
+ee9db56264cb7943c01aec48771bf3e56a4cf275 src/assets/check.svg
+ee6a9f4aae6860d4b376cca4a58daf3f701415a9 src/assets/cog.png
+9c05ac4c2eabe059d7de6d6579cb804a02449b12 src/assets/cylinder.png
+43889e1143dab48485ef8c8bc55b217c17b2a268 src/assets/logo-acme.png
+b950b15625130cf76a8e8663eb3ca5b422b0fd35 src/assets/logo-apex.png
+7d78df4bf453d943bb2b10500c56085ea461c947 src/assets/logo-celestial.png
+c54487d0407a9ffd88399cfa4f69977661d02c02 src/assets/logo-echo.png
+84f922829052a9002cc8784e5baf6a0a7e129ea3 src/assets/logo-pulse.png
+172e1bcf662cd00d011cb12e98d9492bc6db8402 src/assets/logo-quantum.png
+00d4a83a6efa4d427c8acd50473f7324df8b05b9 src/assets/logosaas.png
+725fc3cc9829de8348641745dd90b752341bde6f src/assets/menu.svg
+98b3284295d74fac015884066c27d3c5a769abdc src/assets/noodle.png
+5f5fe1fe924fa0f3fd6685c3bbba0f114f3a6275 src/assets/product-image.png
+e7b619dd43c32c01648e1201a48759d2ecc692e9 src/assets/pyramid.png
+95fc5440056bda8cbf100653a9ccc1ec311ae360 src/assets/social-insta.svg
+3be89b2666632b6e76da6eac74148218547e375a src/assets/social-linkedin.svg
+3ec64c3d1f0233a810574aaab40e98b09e6ef069 src/assets/social-pin.svg
+f0084eaa73d556f55bd8a714f70484e8f6b36d88 src/assets/social-x.svg
+3e54c4936af0c136d3926725c25942ea00f26fe7 src/assets/social-youtube.svg
+58ae8f3c8c1d3ba096ecd136ceeace4bc04747d4 src/assets/spring.png
+e295ae695e51699f6322faa20469fbcadc428852 src/assets/star.png
+e372da9918d7302255fac03404ecf114517c4e6d src/assets/tube.png
+4d7a895938c1032be897ac63ed4d6a120d371ea6 src/components
+518288b0397454ed490cb5b9acf012fa12f04e8a src/components/myComponent.ts
+10afc6a47f30af1e9b9ab83b16c1606792ebbf36 src/components/Pagination.tsx
+8e61b64a5d2c695879b6cd45f69951d736a86255 src/components/WhatsappButton.tsx
+780130bda9c07df2eecf8fd6e78abf046242bbba src/config.js
+ee7b785f08d3b223bf8facd17eb9a6ab1ac232b6 src/content
+8a3a7a5f03ebe5e543aff314f737d43d941eb91f src/content/fifth-blog.md
+39d083dbf9811905e707249b340e7b7786c2a1db src/content/first-blog.md
+03e996fd49b3d0840941a886b1d5db79ff828336 src/content/forth-blog.md
+9a861a97a172b441b181a94830e54dbdfc4050ef src/content/second-blog.md
+53b1f92e8cdd426b0da3fb0fd037abe758ebf808 src/content/third-blog.md
+07d144fdffa4c097406d3875baba9d5053e488e6 src/OTPPopUp.jsx
+b0fafd7a21ab92205b51b170a59d772bad87f42a src/sections
+06a33b617e207446620ef86763fdf4ae8f2d6bd0 src/sections/AboutHeader.tsx
+863d3695f6bdf9be1d052b9d52578efc6c20e3ac src/sections/APISolutions.tsx
+c9555539e6b1217262b2bca6e90992267c0db16e src/sections/Benefits.tsx
+8d83aa0af85776e1213a20d364eb45c725ba74fb src/sections/BuiltWithTrust.tsx
+7a8238bfc74c5287e69de50f5d0da98f30ca2579 src/sections/CallToAction.tsx
+e93e0d8132bb111606bad7650bbede80a5a9f2ed src/sections/ContactForm.tsx
+cce5eccd21484109d10332f3a6ee7f8053ff0dcc src/sections/Faq.tsx
+e79519d9d5cfa3dbc0b7d07a49ccc9423d552d79 src/sections/FeatureSection.tsx
+92266eee5674d9781bdf13c4c3043d117ef7b24b src/sections/FinanceSection.tsx
+cbf4c29887749d38d98616ffab2772c9ad4c8137 src/sections/Footer.tsx
+672d488245ce19f225027e1f4a88b96d5dcf6dcb src/sections/GetStarted.tsx
+84df5dc3323cd4be379204a9bc944c0c1bc8c6b9 src/sections/GetStartedWithUs.tsx
+1e03ddfd87135151e6c8dd2d0c7562d78d0e8e4f src/sections/Header.tsx
+6ffd05b8acf541f31f7b00b55b3a4c9d87f81b63 src/sections/Hero.tsx
+f354d62987e1ed33e5f8cdb3da6289170e867d36 src/sections/HowItWorks.tsx
+09b53400be376f7bd9916bf3891dc450429fdc7d src/sections/LogoTicker.tsx
+6edccb62e8784bd3fa1151480c94513439c44aef src/sections/Mission.tsx
+2536a62da4cc1fd8f44013b1ca6a39697f9bba21 src/sections/mySection.ts
+4f945f2eafc1a1b61303c18a28de9addf8a46190 src/sections/PagesHeader.tsx
+481025bebc9d37cf3e9f875f0bfd0d68e35aaddf src/sections/Pricing.tsx
+ed0d4daeef444bc3feccc82bac22f5f1465808ff src/sections/ProductShowcase.tsx
+1af119d62e1cf0a3b097182dec20487f6d7bade0 src/sections/SectorsHeader.tsx
+5f35439c0da59216b0d4dee441f652f1ef821e3a src/sections/Solutions.tsx
+276ac8dd2326b823ed30b75502c3dcfbf2b90397 src/sections/SolutionsBuiltForEveryBusiness.tsx
+cd5246f6fffbdff67360a48a86e16bc237378457 src/sections/SolutionSection.tsx
+5974c63597ba570218410bed91b1ff7ad7cf22eb src/sections/Steps.tsx
+a071b3507ba10d0022a62860ea776d52cc08292a src/sections/Team.tsx
+3f25f518671c709f2cc8da18042552b99c7d451c src/sections/Testimonials.tsx
+a47c8aa0eb9739ea8463e1aaf3f97d90856f6a87 src/sections/TravelContent.tsx
+4adb824be96c8c3fb1c15753c5de22d334711e42 src/sections/Trial.tsx
+c90918a93260488dd5067648eb28004aa64d2d94 src/sections/UseCases.tsx
+b18d71468873d1f61282d30e60eaa5bcb644ddf1 src/sections/Values.tsx
+114c562fb2838cc697997994c9325516bc09eeb0 src/sections/VerificationFailure.tsx
+9d86883ec4b0a61b1b6b258d97473946a7975bbb src/sections/WhyBusinessChooseUs.tsx
+9b8c35223b8bb88b4fb3a027a095b675cc1669c3 src/sections/Workflow.tsx
+1087bdb6ae1afa22a2cd8554cc25970aa840663f src/ThankYou.jsx
+c210edc9728739dda78e24a49e23dea9453031cc tailwind.config.ts
+3de4d38ae093d6c85214e69b69833457d922040a tsconfig.json

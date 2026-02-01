@@ -1,0 +1,16 @@
+import React, { ReactNode } from "react";
+
+interface CardProps {
+  children: ReactNode;
+  className?: string;
+}
+
+export function Card({ children, className = "" }: CardProps) {
+  return (
+    <div
+      className={`rounded-xl border border-neutral-200 bg-white ${className}`}
+    >
+      {children}
+    </div>
+  );
+}
